@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['Html_script.py', 'Extract_combine.py', 'Plot_AQI.py', 'Data\\Real-Data\\Real_Combine.csv', 'Deployment\\app.py']
+

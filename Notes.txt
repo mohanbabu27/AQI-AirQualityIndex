@@ -1,0 +1,22 @@
+R2 value
+Linear regression 
+Non linear regression... 
+
+Cross Validation score
+cv=5
+if i have 100/5 = 20 
+ first experiment top 20 will be test and train
+
+2nd experiment next 20 (21-40) will be test and remaining will be training dataset
+3rd experiment next 20 (41-60) will be test and remaining will be training dataset
+
+RMSE
+MAE
+
+
+coef:
+co-effcient values...like y=mx+c..m features..like slope values
+
+Intercept: when your all indipendents featuers are ...we get intercept value..
+
+Ridge Regression:
